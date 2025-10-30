@@ -197,11 +197,11 @@ exclude:
   - _projects/?_project.md
   - _posts/
   - assets/jupyter/blog.ipynb
-  -_includes/latest_posts.liquid
-  -_includes/related_posts.liquid
-  -_layouts/archive.liquid 
-  -_plugins/external-posts.rb
-  -_pages/repositories.md
+  - _includes/latest_posts.liquid
+  - _includes/related_posts.liquid
+  - _layouts/archive.liquid 
+  - _plugins/external-posts.rb
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
