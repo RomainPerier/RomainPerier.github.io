@@ -1,5 +1,5 @@
 ---
-permalink: /assets/js/cronitor-analytics-setup.js
+permalink : /assets/js/cronitor-analytics-setup.js
 ---
 window.cronitor =
   window.cronitor ||

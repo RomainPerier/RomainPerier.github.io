@@ -1,5 +1,5 @@
 ---
-permalink: /assets/js/open-panel-analytics-setup.js
+permalink : /assets/js/open-panel-analytics-setup.js
 ---
 window.op =
   window.op ||

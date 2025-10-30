@@ -1,5 +1,5 @@
 ---
-permalink: /assets/js/giscus-setup.js
+permalink : /assets/js/giscus-setup.js
 ---
 
 function determineGiscusTheme() {
