@@ -202,9 +202,9 @@ exclude:
   - _layouts/archive.liquid 
   - _plugins/external-posts.rb
   - _pages/repositories.md
-  -
-  -
-  -
+  - _pages/books
+  - _pages/projects
+  - _pages/profile
   -
   
 keep_files:
