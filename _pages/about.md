@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: [Institut de mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/)
 
 profile:
   align: right
