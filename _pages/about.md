@@ -1,28 +1,27 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: [Institut de mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/)
-
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
-  image: .jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info: >
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Since October, 2023, I'm a PhD student from Paris-Saclay university under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and [Guillermo Durand](https://durandg12.github.io/). I'm working on multiple testing theory.
+Since October, 2023, I am a PhD student from Paris-Saclay University at the [IMO](https://www.imo.universite-paris-saclay.fr/fr/) under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and [Guillermo Durand](https://durandg12.github.io/). I am working on multiple testing theory with an emphasis on heterogeneous data, post-selection inference, conformal inference and e-values. 
