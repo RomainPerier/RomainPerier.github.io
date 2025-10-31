@@ -20,5 +20,5 @@ Vous trouverez ci-dessous les sujets des interrogations ainsi que leurs correcti
 
 ***
 # Stats-ML Students seminar of the MDA
-I am co-organizer, with [Bertrand Even](https://sites.google.com/view/bertrandeven/accueil), of the Stats-ML Student seminar from the [MDA](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/mathematiques-de-laleatoire/).\
+I am co-organizer, with [Bertrand Even](https://sites.google.com/view/bertrandeven/accueil), of the Stats-ML Students seminar from the [MDA](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/mathematiques-de-laleatoire/).\
 You can find [here](https://docs.google.com/document/d/1nJzjZ9Ga_iRWyq1oKQrsninOXfi4TsanQJ8h4OSPhrc/edit?usp=sharing) the program from this year, and [here](https://docs.google.com/document/d/1fVdgC2as2UA55DsnnGHVVc8EVyNRnsDCCit0m5Lnpac/edit?usp=sharing) the one from last year.
