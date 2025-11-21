@@ -207,6 +207,7 @@ exclude:
   - _pages/profile
   - _pages/cv
   - _pages/publications
+  - _pages/off-topic
   
 keep_files:
   - CNAME
