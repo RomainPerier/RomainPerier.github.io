@@ -22,5 +22,5 @@ nav: false
 * [_Post hoc bounds for heterogeneous data_](/assets/pdf/talks/2025/JDS2025.pdf), June 3rd 2025 \
 [JDS 2025](https://jds2025.sciencesconf.org/)
 
-* _An introduction to hypothesis testing problems and MT_, June 22th 2023  \
+* _From simple testing to multiple testing procedures_, June 22th 2023  \
 EDUC school master degree seminar (Potsdam) 
