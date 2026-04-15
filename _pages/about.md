@@ -25,3 +25,5 @@ latest_posts:
 ---
 
 Since October, 2023, I am a PhD student in statistics from Paris-Saclay University at the [LMO](https://www.imo.universite-paris-saclay.fr/fr/) under the supervision of [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/) and [Guillermo Durand](https://durandg12.github.io/). I am working on multiple testing theory with an emphasis on heterogeneous data, post-selection inference, conformal inference and e-values. 
+
+
