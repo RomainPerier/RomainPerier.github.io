@@ -4,7 +4,7 @@ title: Talks
 permalink: /Talks/
 nav: false
 ---
-* [_Confidence envelopes for the false discoveries and False Discovery Rate with heterogeneous data_](/assets/pdf/talks/2026/presentation_ceremade_2026.pdf, September 7th 2026 \
+* [_Confidence envelopes for the false discoveries and False Discovery Rate with heterogeneous data_](/assets/pdf/talks/2026/presentation_ceremade_2026.pdf), September 7th 2026 \
  [Rencontres statistiques du CEREMADE](https://www.ceremade.dauphine.fr/) 
 
 * [_Confidence envelopes for the false discoveries with heterogeneous data_](/assets/pdf/talks/2025/JPS2025.pdf), October 2nd 2025 \
