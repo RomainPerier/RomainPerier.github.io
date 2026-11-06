@@ -18,5 +18,5 @@ G. Blanchard, G. Durand, A. Marandon-Carlhian, R. Périer, [arXiv](https://arxiv
 
 *** 
 * **On strongly coherent confidence envelopes for the false discoveries**\
- R. Périer, G. Blanchard, G. Durand[arXiv](https://arxiv.org/abs/2610.22601)
+ R. Périer, G. Blanchard, G. Durand [arXiv](https://arxiv.org/abs/2610.22601)
 
